@@ -5,9 +5,22 @@
 
 from PyDictionary import PyDictionary
 
-dictionary = PyDictionary()
+dictionary = PyDictionary("eyes", "indentation", "head")
 
-print(dictionary.meaning("eyes"))
+# print(dictionary.printMeanings())
+
+#print dictionary style
+print(dictionary.getMeanings())
+
+
+
+
+
+# while True:
+#     word = input("Enter your word here: ")
+#     if word == "":
+#         break
+#     print(dictionary.meaning(word))
 
 # def main():
 #     word_dictionary = {
