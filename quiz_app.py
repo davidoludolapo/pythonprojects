@@ -1,6 +1,6 @@
 # Create a dictionary that will store questions and answers
 # Create a variable that tracks the score of the student
-# Lopp through the dictionary using the key value pairs
+# Loop through the dictionary using the key value pairs
 # Display each question to the user and allow them to answer
 # Display if they are right or wrong
 # Show final result when quiz is completed
